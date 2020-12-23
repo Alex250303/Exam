@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "computer"
+echo "mouse"
+echo "keyboard"
+echo "LAPTOP"
+echo "Linux"
+echo "Github"
+echo "RedHat"
+echo "Windows"
+echo "Ubuntu"
