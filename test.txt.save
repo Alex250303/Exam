@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# our first script
+
 echo "computer"
 echo "mouse"
 echo "keyboard"
@@ -8,4 +10,4 @@ echo "Linux"
 echo "Github"
 echo "RedHat"
 echo "Windows"
-echo "Ubuntu"
+
